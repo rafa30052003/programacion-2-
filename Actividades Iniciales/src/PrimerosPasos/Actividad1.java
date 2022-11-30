@@ -1,3 +1,5 @@
+package PrimerosPasos;
+
 import java.util.Scanner;
 
 public class Actividad1 {
