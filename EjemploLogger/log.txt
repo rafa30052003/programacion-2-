@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-09T13:49:55.104192Z</date>
+  <millis>1678369795104</millis>
+  <nanos>192000</nanos>
+  <sequence>0</sequence>
+  <logger>model.EjemploLogger</logger>
+  <level>INFO</level>
+  <class>model.EjemploLogger</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message></message>
+</record>
+<record>
+  <date>2023-03-09T13:49:55.136564200Z</date>
+  <millis>1678369795136</millis>
+  <nanos>564200</nanos>
+  <sequence>1</sequence>
+  <logger>model.EjemploLogger</logger>
+  <level>SEVERE</level>
+  <class>model.EjemploLogger</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Dividion por 0</message>
+</record>
+<record>
+  <date>2023-03-09T13:49:55.137560600Z</date>
+  <millis>1678369795137</millis>
+  <nanos>560600</nanos>
+  <sequence>2</sequence>
+  <logger>model.EjemploLogger</logger>
+  <level>SEVERE</level>
+  <class>model.EjemploLogger</class>
+  <method>leeArchivo</method>
+  <thread>1</thread>
+  <message>no se puede leer el archivohola.txt</message>
+</record>
+<record>
+  <date>2023-03-09T13:49:55.139736300Z</date>
+  <millis>1678369795139</millis>
+  <nanos>736300</nanos>
+  <sequence>3</sequence>
+  <logger>model.EjemploLogger</logger>
+  <level>SEVERE</level>
+  <class>model.EjemploLogger</class>
+  <method>leeArchivo</method>
+  <thread>1</thread>
+  <message>dividir por 0</message>
+</record>
+</log>
